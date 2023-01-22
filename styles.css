@@ -1,0 +1,56 @@
+body {
+  text-align: center;
+  background-color: #D8CCA3;
+}
+
+#level-title {
+  font-family: 'Press Start 2P', cursive;
+  font-size: 3rem;
+  margin: 5%;
+  color: #5F7161;
+}
+
+.container {
+  display: block;
+  width: 50%;
+  margin: auto;
+}
+
+.btn {
+  margin: 25px;
+  display: inline-block;
+  height: 200px;
+  width: 200px;
+  border: 10px solid #283148;
+  border-radius: 20%;
+}
+
+.game-over {
+  background-color: #8F1D14;
+  opacity: 0.8;
+}
+
+.soledar {
+  background-color: #557153;
+  align-content: center;
+}
+
+.bakhmut {
+  background-color: #9BA17B;
+  align-content: center;
+}
+
+.donetsk {
+  background-color: #61764B;
+  align-content: center;
+}
+
+.luhansk {
+  background-color: #87805E;
+  align-content: center;
+}
+
+.pressed {
+  box-shadow: 10 10 20px #681313;
+  background-color: #A7D2CB;
+}
