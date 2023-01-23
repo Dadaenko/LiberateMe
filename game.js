@@ -36,7 +36,7 @@ function checkAnswer(currentLevel) {
   } else {
     playSound("wrong");
     $("body").addClass("game-over");
-    $("#level-title").text("Get more weapons and keep going!");
+    $("#level-title").text("Get more weapons and keep going! 🇺🇦");
 
     setTimeout(function() {
       $("body").removeClass("game-over");
